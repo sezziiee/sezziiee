@@ -47,14 +47,11 @@
 
 ## 📫 How to reach me
 
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/zoe-allen-205192248/)
-- Email: [YourEmail@example.com](mailto:zoeallen2501@gmail.com)
+- LinkedIn: [Zoe Allen](https://www.linkedin.com/in/zoe-allen-205192248/)
+- Email: [zoeallen2501@gmail.com](mailto:zoeallen2501@gmail.com)
 
 ## 🏅 Achievements
 
 - 👩‍💻 Completed Advent of Code 2022
 - 🌟 Top Achievers Award 2021-2023
-
 ---
-
-![Visitor Count](https://profile-counter.glitch.me/sezziiee/count.svg)
