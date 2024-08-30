@@ -24,7 +24,6 @@
 
 - [Limitless](https://github.com/sezziiee/Limitless) - An Android app to help users achieve their fitness goals.
 - [Portfolio Website](https://github.com/sezziiee/portfolio) - A personal website showcasing my skills and projects.
-- [Open Source Contributions](https://github.com/sezziiee/open-source) - My contributions to various open-source projects.
 
 ## 📚 TryHackMe Courses Completed
 
