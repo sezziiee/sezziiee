@@ -8,7 +8,7 @@
 
 ## 🛠️ Skills & Tools
 
-[![My Skills](https://skillicons.dev/icons?i=azure,docker,figma,firebase,github,java,kotlin,visualstudio,nodejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=azure,mysql,docker,figma,firebase,github,java,kotlin,visualstudio,nodejs)](https://skillicons.dev)
 
 ## 📈 GitHub Stats
 
