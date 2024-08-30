@@ -6,12 +6,9 @@
 - 🌱 I’m currently learning **Kotlin**, **C#**, and **React**.
 - 🏋️ Fun fact: I love going to the gym
 
-## 🛠️ Technologies & Tools
+## 🛠️ Skills & Tools
 
-![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=ffffff)
-![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=ffffff)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=ffffff)
+[![My Skills](https://skillicons.dev/icons?i=azure,html,docker,figma,firebase,github,java,kotlin,visualstudio,nodejs)](https://skillicons.dev)
 
 ## 📈 GitHub Stats
 
