@@ -1,21 +1,39 @@
 # Hi there, I'm [Zoe]! 
 
-![184501](https://github.com/user-attachments/assets/6ba32b09-0841-444b-bcee-1828e3e0b171)
+![e5269dfb8c65e1165b035cde2f82dfba](https://github.com/user-attachments/assets/93ffd343-986e-487c-8c7f-de92e032aadc)
 
 ## 🌟 About Me
 
 - 🔭 I’m currently a student studying Computer Sciences in Application Development.
 - 🖥️ I have a strong passion for Cyber Security and Netwokring.
 - 🌱 I’m currently learning **Kotlin**, **C#**, and **React**.
-- 🏋️ Hobbies: I love going to the gym., hiking and listening to music!
+- 🏋️ Hobbies: I love going to the gym, gaming, hiking and listening to music!
 
 ## 🛠️ Skills & Tools
 
 [![My Skills](https://skillicons.dev/icons?i=azure,mysql,docker,figma,firebase,github,java,kotlin,visualstudio,nodejs)](https://skillicons.dev)
 
-## 🚀 My Projects
+- ## 📂 Project Experience
 
-- [Limitless](https://github.com/sezziiee/Limitless) - An Android app to help users achieve their fitness goals.
+### **Automated Attendance Tracking System (Project Manager) (In Progress)**
+- Assisted in a team of 5 students in developing an automated attendance tracking system for the university.
+- Prototyped and built a physical device using **ESP32 microcontrollers** and **C++**.
+- Developed the scanning logic and an **Azure-hosted API** to send attendance data to an **Azure SQL database**.
+- Assisted in building the UI and screens of the device.
+
+### **Time Tracker - Mobile Application Development (Project Manager)**
+- Assisted in a team of 5 students in developing a mobile application as a full stack developer.
+- Developed a mobile application using **Kotlin** that connects to **Firebase** for real-time data synchronization.
+- Implemented user authentication and data storage functionalities.
+- Conducted code reviews and mentored team members on best practices.
+- Application's GitHub: [Time Tracker](https://github.com/VCNMB/vcnmb-opsc7311-2024-poe-ticktock)
+
+### **Website Prototype**
+- Created a multi-module web application using **C# ASP.NET Core** and **MySQL database**.
+- Designed and implemented an API for employer notifications.
+- Followed **MVC architecture** and used the **singleton pattern** for database connection.
+- Website and API: [Website Prototype](https://github.com/sezziiee/ST10085210_PROG7311_Part2)
+
 
 ## 📚 TryHackMe Courses Completed
 
