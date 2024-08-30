@@ -37,22 +37,28 @@
 
 ## 📚 TryHackMe Courses Completed
 
-### **Intro Rooms**
-- [ ]  [TryHackMe | Welcome](https://tryhackme.com/room/hello)
-- [ ]  [TryHackMe | How to use TryHackMe](https://tryhackme.com/room/howtousetryhackme)
-- [ ]  [TryHackMe | Tutorial](https://tryhackme.com/room/tutorial)
-- [ ]  [TryHackMe | OpenVPN](https://tryhackme.com/room/openvpn)
-- [ ]  [TryHackMe | Learning Cyber Security](https://tryhackme.com/room/beginnerpathintro)
-- [ ]  [TryHackMe | Starting Out In Cyber Sec](https://tryhackme.com/room/startingoutincybersec)
-- [ ]  [TryHackMe | Introductory Researching](https://tryhackme.com/room/introtoresearch)
-- [ ]  [TryHackMe | Regular expressions](https://tryhackme.com/room/catregex)
+<details>
+  <summary><b>🎯 Click Me to See My TryHackMe Courses Completed!</b></summary>
 
-### **Linux Fundamentals**
-- [ ]  [TryHackMe | Learn Linux](https://tryhackme.com/room/zthlinux)
-- [ ]  [TryHackMe | Linux Modules](https://tryhackme.com/room/linuxmodules)
-- [ ]  [TryHackMe | Linux Fundamentals Part 1](https://tryhackme.com/room/linuxfundamentalspart1)
-- [ ]  [TryHackMe | Linux Fundamentals Part 2](https://tryhackme.com/room/linuxfundamentalspart2)
-- [ ]  [TryHackMe | Linux Fundamentals Part 3](https://tryhackme.com/room/linuxfundamentalspart3)
+  ### **Intro Rooms**
+
+  - [ ]  [TryHackMe | Welcome](https://tryhackme.com/room/hello)
+  - [ ]  [TryHackMe | How to use TryHackMe](https://tryhackme.com/room/howtousetryhackme)
+  - [ ]  [TryHackMe | Tutorial](https://tryhackme.com/room/tutorial)
+  - [ ]  [TryHackMe | OpenVPN](https://tryhackme.com/room/openvpn)
+  - [ ]  [TryHackMe | Learning Cyber Security](https://tryhackme.com/room/beginnerpathintro)
+  - [ ]  [TryHackMe | Starting Out In Cyber Sec](https://tryhackme.com/room/startingoutincybersec)
+  - [ ]  [TryHackMe | Introductory Researching](https://tryhackme.com/room/introtoresearch)
+  - [ ]  [TryHackMe | Regular expressions](https://tryhackme.com/room/catregex)
+
+  ### **Linux Fundamentals**
+
+  - [ ]  [TryHackMe | Learn Linux](https://tryhackme.com/room/zthlinux)
+  - [ ]  [TryHackMe | Linux Modules](https://tryhackme.com/room/linuxmodules)
+  - [ ]  [TryHackMe | Linux Fundamentals Part 1](https://tryhackme.com/room/linuxfundamentalspart1)
+  - [ ]  [TryHackMe | Linux Fundamentals Part 2](https://tryhackme.com/room/linuxfundamentalspart2)
+  - [ ]  [TryHackMe | Linux Fundamentals Part 3](https://tryhackme.com/room/linuxfundamentalspart3)
+</details>
 
 ## 📫 How to reach me
 
