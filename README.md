@@ -1,4 +1,4 @@
-# Hi there, I'm [Zoe]! 
+# Hi there, I'm Zoe! 
 
 ![e5269dfb8c65e1165b035cde2f82dfba](https://github.com/user-attachments/assets/93ffd343-986e-487c-8c7f-de92e032aadc)
 
