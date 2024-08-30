@@ -74,7 +74,7 @@
 
 ## 🏅 Achievements
 
-- 👩‍💻 Completed Advent of Code 2022
+- 👩‍💻 Completed Advent of Cyber 2022
 - 🌟 Top Achievers Award 2021-2023
 ---
 ## 📈 GitHub Stats
