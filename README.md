@@ -35,10 +35,11 @@
 - Website and API: [Website Prototype](https://github.com/sezziiee/ST10085210_PROG7311_Part2)
 
 ### **Liter of Light - Sustainable Lighting Solution**
-- Led a project to build a sustainable lighting solution for less fortunate communities using an **ESP8266 microcontroller**, **solar panels**, a **light diode**, **2L Bottle**, **yoghurt tub** and a **breadboard**.
-- Designed a system that uses solar energy to charge the light during the day, providing illumination for homes and pathways at night.
-- Developed an **Android application** similar to Google Home, allowing community members to remotely control the lights for enhanced safety and convenience.
-- The project aimed to provide an affordable, eco-friendly lighting solution, ensuring safer environments for community members returning home after dark.
+- Worked with 5 other students to build a lighting solution using a **2L bottle**, **yoghurt tub**, **ESP8266**, **solar panels**, **light diode**, and **breadboard**.
+- Designed a system that charges the light with solar energy during the day and provides illumination at night.
+- Developed an **Android application** with an API to control the light remotely.
+- Enabled safer environments for less fortunate communities, allowing them to return home safely.
+- API [API](https://github.com/sezziiee/LiterOfLight)
 
 ## 📚 TryHackMe Courses Completed
 
