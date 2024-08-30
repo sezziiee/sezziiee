@@ -13,7 +13,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=azure,mysql,docker,figma,firebase,github,java,kotlin,visualstudio,nodejs)](https://skillicons.dev)
 
-- ## 📂 Project Experience
+## 📂 Project Experience
 
 ### **Automated Attendance Tracking System (Project Manager) (In Progress)**
 - Assisted in a team of 5 students in developing an automated attendance tracking system for the university.
