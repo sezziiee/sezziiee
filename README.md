@@ -38,7 +38,7 @@
 ## 📚 TryHackMe Courses Completed
 
 <details>
-  <summary><b>🎯 Click Me to See My TryHackMe Courses Completed!</b></summary>
+  <summary><b>🎯 Click Me to See The TryHackMe Courses I've Completed!</b></summary>
 
   ### **Intro Rooms**
 
