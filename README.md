@@ -34,6 +34,11 @@
 - Followed **MVC architecture** and used the **singleton pattern** for database connection.
 - Website and API: [Website Prototype](https://github.com/sezziiee/ST10085210_PROG7311_Part2)
 
+### **Liter of Light - Sustainable Lighting Solution**
+- Led a project to build a sustainable lighting solution for less fortunate communities using an **ESP8266 microcontroller**, **solar panels**, a **light diode**, **2L Bottle**, **yoghurt tub** and a **breadboard**.
+- Designed a system that uses solar energy to charge the light during the day, providing illumination for homes and pathways at night.
+- Developed an **Android application** similar to Google Home, allowing community members to remotely control the lights for enhanced safety and convenience.
+- The project aimed to provide an affordable, eco-friendly lighting solution, ensuring safer environments for community members returning home after dark.
 
 ## 📚 TryHackMe Courses Completed
 
@@ -58,6 +63,7 @@
   - [ ]  [TryHackMe | Linux Fundamentals Part 1](https://tryhackme.com/room/linuxfundamentalspart1)
   - [ ]  [TryHackMe | Linux Fundamentals Part 2](https://tryhackme.com/room/linuxfundamentalspart2)
   - [ ]  [TryHackMe | Linux Fundamentals Part 3](https://tryhackme.com/room/linuxfundamentalspart3)
+        
 </details>
 
 ## 📫 How to reach me
