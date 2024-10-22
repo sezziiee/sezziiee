@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently a student studying Computer Sciences in Application Development.
 - 🖥️ I have a strong passion for Cyber Security and Netwokring.
-- 🌱 I’m currently learning **Kotlin**, **C#**, **React** and **application security**.
+- 🌱 I’m currently learning **Kotlin**, **C#**, **React** and **Application Security**.
 - 🏋️ Hobbies: I love going to the gym, gaming, hiking and listening to music!
 
 ## 🛠️ Skills & Tools
