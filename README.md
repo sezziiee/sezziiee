@@ -44,27 +44,16 @@
 ## 📚 TryHackMe Courses Completed
 
 <details>
-  <summary><b>🎯 Click Me to See The TryHackMe Courses I've Completed!</b></summary>
+  <summary><b>🎯 Click Me to See The TryHackMe Certificates I've Achieved!</b></summary>
 
-  ### **Intro Rooms**
+  ### **Pre-Security**
+  
+  ![THM-JVMSJXBQXS](https://github.com/user-attachments/assets/0f462c3d-75ce-4a24-ae5e-88c2439f6c08)
 
-  - [ ]  [TryHackMe | Welcome](https://tryhackme.com/room/hello)
-  - [ ]  [TryHackMe | How to use TryHackMe](https://tryhackme.com/room/howtousetryhackme)
-  - [ ]  [TryHackMe | Tutorial](https://tryhackme.com/room/tutorial)
-  - [ ]  [TryHackMe | OpenVPN](https://tryhackme.com/room/openvpn)
-  - [ ]  [TryHackMe | Learning Cyber Security](https://tryhackme.com/room/beginnerpathintro)
-  - [ ]  [TryHackMe | Starting Out In Cyber Sec](https://tryhackme.com/room/startingoutincybersec)
-  - [ ]  [TryHackMe | Introductory Researching](https://tryhackme.com/room/introtoresearch)
-  - [ ]  [TryHackMe | Regular expressions](https://tryhackme.com/room/catregex)
+### **Advent Of Cyber** 
 
-  ### **Linux Fundamentals**
+  ![THM CERTIFICATE](https://github.com/user-attachments/assets/9616d3d0-042d-460f-81b4-c314fce41f32)
 
-  - [ ]  [TryHackMe | Learn Linux](https://tryhackme.com/room/zthlinux)
-  - [ ]  [TryHackMe | Linux Modules](https://tryhackme.com/room/linuxmodules)
-  - [ ]  [TryHackMe | Linux Fundamentals Part 1](https://tryhackme.com/room/linuxfundamentalspart1)
-  - [ ]  [TryHackMe | Linux Fundamentals Part 2](https://tryhackme.com/room/linuxfundamentalspart2)
-  - [ ]  [TryHackMe | Linux Fundamentals Part 3](https://tryhackme.com/room/linuxfundamentalspart3)
-        
 </details>
 
 ## 📫 How to reach me
