@@ -15,6 +15,13 @@
 
 ## 📂 Project Experience
 
+### **Customer Banking - Application Security (Developer)**
+- Worked on securing a customer banking application to ensure safe and encrypted transactions for users.
+- Implemented SSL/TLS encryption using OpenSSL to enable HTTPS and secure communication between client and server.
+- Integrated user authentication with bcrypt for password hashing and JWT for secure token-based sessions.
+- Implemented cookie-based CSRF protection for additional security measures.
+- Assisted in troubleshooting and resolving SSL certificate errors to ensure the application runs over HTTPS without issues.
+
 ### **Automated Attendance Tracking System (Project Manager) (In Progress)**
 - Assisted in a team of 5 students in developing an automated attendance tracking system for the university.
 - Prototyped and built a physical device using **ESP32 microcontrollers** and **C++**.
@@ -27,12 +34,6 @@
 - Implemented user authentication and data storage functionalities.
 - Conducted code reviews and mentored team members on best practices.
 - Application's GitHub: [Time Tracker](https://github.com/VCNMB/vcnmb-opsc7311-2024-poe-ticktock)
-
-### **Website Prototype**
-- Created a multi-module web application using **C# ASP.NET Core** and **MySQL database**.
-- Designed and implemented an API for employer notifications.
-- Followed **MVC architecture** and used the **singleton pattern** for database connection.
-- Website and API: [Website Prototype](https://github.com/sezziiee/ST10085210_PROG7311_Part2)
 
 ### **Liter of Light - Sustainable Lighting Solution**
 - Worked with 5 other students to build a lighting solution using a **2L bottle**, **yoghurt tub**, **ESP8266**, **solar panels**, **light diode**, and **breadboard**.
