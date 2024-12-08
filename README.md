@@ -4,9 +4,8 @@
 
 ## 🌟 About Me
 
-- 🔭 I’m currently a student studying Computer Sciences in Application Development.
+- 🔭 I have recently obtained my Bachelors Degree for Computer Sciences in Application Development
 - 🖥️ I have a strong passion for Cyber Security and Netwokring.
-- 🌱 I’m currently learning **Kotlin**, **C#**, **React** and **Application Security**.
 - 🏋️ Hobbies: I love going to the gym, gaming, hiking and listening to music!
 
 ## 🛠️ Skills & Tools
@@ -22,7 +21,7 @@
 - Implemented cookie-based CSRF protection for additional security measures.
 - Assisted in troubleshooting and resolving SSL certificate errors to ensure the application runs over HTTPS without issues.
 
-### **Automated Attendance Tracking System (Project Manager) (In Progress)**
+### **Automated Attendance Tracking System (Project Manager)**
 - Assisted in a team of 5 students in developing an automated attendance tracking system for the university.
 - Prototyped and built a physical device using **ESP32 microcontrollers** and **C++**.
 - Developed the scanning logic and an **Azure-hosted API** to send attendance data to an **Azure SQL database**.
