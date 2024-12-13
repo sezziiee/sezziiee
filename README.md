@@ -5,7 +5,7 @@
 ## 🌟 About Me
 
 - 🔭 I have recently obtained my Bachelors Degree for Computer Sciences in Application Development
-- 🖥️ I have a strong passion for Cyber Security and Netwokring.
+- 🖥️ I have a strong passion for Cyber Security and Networking.
 - 🏋️ Hobbies: I love going to the gym, gaming, hiking and listening to music!
 
 ## 🛠️ Skills & Tools
