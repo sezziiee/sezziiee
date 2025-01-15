@@ -41,7 +41,7 @@
 - Designed a system that charges the light with solar energy during the day and provides illumination at night.
 - Developed an **Android application** with an API to control the light remotely.
 - Enabled safer environments for less fortunate communities, allowing them to return home safely.
-- API: [Liter of Light](https://github.com/sezziiee/LiterOfLight)
+- API: [Litre of Light](https://github.com/sezziiee/LiterOfLight)
 
 ## 📚 TryHackMe Courses Completed
 
