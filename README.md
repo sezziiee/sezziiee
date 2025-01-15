@@ -20,19 +20,21 @@
 - Integrated user authentication with bcrypt for password hashing and JWT for secure token-based sessions.
 - Implemented cookie-based CSRF protection for additional security measures.
 - Assisted in troubleshooting and resolving SSL certificate errors to ensure the application runs over HTTPS without issues.
-
+- [Basic Bank Banking Application](https://github.com/sezziiee/BankingApplication)
+  
 ### **Automated Attendance Tracking System (Project Manager)**
 - Assisted in a team of 5 students in developing an automated attendance tracking system for the university.
 - Prototyped and built a physical device using **ESP32 microcontrollers** and **C++**.
 - Developed the scanning logic and an **Azure-hosted API** to send attendance data to an **Azure SQL database**.
 - Assisted in building the UI and screens of the device.
+- [Attendance System](https://github.com/sezziiee/XBCADAttendance)
 
 ### **Time Tracker - Mobile Application Development (Project Manager)**
 - Assisted in a team of 5 students in developing a mobile application as a full stack developer.
 - Developed a mobile application using **Kotlin** that connects to **Firebase** for real-time data synchronization.
 - Implemented user authentication and data storage functionalities.
 - Conducted code reviews and mentored team members on best practices.
-- Application's GitHub: [Time Tracker](https://github.com/VCNMB/vcnmb-opsc7311-2024-poe-ticktock)
+- Application's GitHub: [Time Tracker](https://github.com/sezziiee/TickTockTimeTracker)
 
 ### **Liter of Light - Sustainable Lighting Solution**
 - Worked with 5 other students to build a lighting solution using a **2L bottle**, **yoghurt tub**, **ESP8266**, **solar panels**, **light diode**, and **breadboard**.
@@ -46,13 +48,18 @@
 <details>
   <summary><b>🎯 Click Me to See The TryHackMe Certificates I've Achieved!</b></summary>
 
-  ### **Pre-Security**
+### **Pre-Security**
   
   ![THM-JVMSJXBQXS](https://github.com/user-attachments/assets/0f462c3d-75ce-4a24-ae5e-88c2439f6c08)
 
+### **Advent of Cyber**
+
+[THM-YTAQWT3FKW.pdf](https://github.com/user-attachments/files/18431413/THM-YTAQWT3FKW.pdf)
+
 ### **Advent Of Cyber** 
 
-  ![THM CERTIFICATE](https://github.com/user-attachments/assets/9616d3d0-042d-460f-81b4-c314fce41f32)
+![THM CERTIFICATE](https://github.com/user-attachments/assets/9616d3d0-042d-460f-81b4-c314fce41f32)
+
 
 </details>
 
